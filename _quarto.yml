@@ -9,7 +9,7 @@ website:
 
 format:
   html:
-    theme: lux
+    theme: journal
     toc: false
     css: styles.css
     embed-resources: true
